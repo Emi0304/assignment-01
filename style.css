@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/Untitled-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+/* main header start */
+.main-header{
+    display: flex;
+    margin-top: 15px;
+}
+.header-left{
+    width: 50%;
+    padding-left: 300px;
+}
+.header-right{
+    font-size: 12px;
+    
+    
+}
+.header-right h3{
+    margin: 0;
+    padding: 4px 30px;
+    margin-top: 10px;
+    border: 2px solid #C5E4F6;
+    
+}
+/* main header end */
+/* header design start */
+#header-background-img{
+    width: 100%;
+    height: 500px;
+    padding-left: 60px;
+    margin:0 ;
+}
+.main-header-section{
+    display: flex;
+    
+}
+.header-right-side{
+    padding-left: 250px;
+    padding-top: 140px;
+
+}
+#first-heading-style{
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+.header-right-side h3{
+    font-size: 15px;
+    color: rgb(36, 35, 35);
+    margin-top: 0;
+    margin-bottom: 30px;
+
+}
+.header-right-side h1{
+    margin-top: 0;
+}
+#hire-me{
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 46px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #F8A6CB, #C5E4F6);
+    margin-top: 15px;
+}
+
+/* header design end */
+
+/* hr design */
+/* #hr-style{
+    width: 75%;
+    margin-top: 15px;
+    border-top: 1px solid #3f3737;
+    margin-bottom: 0;
+     */
+
+/* About me and my dream design start */
+.second-main-section{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 140px;
+    margin-top: 5rem;
+   
+}
+.about-me-main-div{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding-left: 20px;
+    border-left: 6px solid #C5E4F6;
+    margin-bottom: 20px;
+}
+.my-dream-main-div{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-left: 6px solid #C5E4F6;
+    margin-bottom: 20px;
+
+
+}
+
+#paragraph-design{
+    margin-left: 40px;
+
+}
+
+
+#heading1-design{
+    font-size: 30px;
+}
+#paragraph{
+    font-size:14px ;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 15px;
+}
+/* About me and my dream design start */
+
+/* experience section desing start */
+#experience-section-heading{
+    margin-left: 60px;
+    margin-top: 35px;
+}
+.experience-main-div{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 140px;
+    margin-top: 3rem;
+    margin-bottom: 30px;
+   
+
+}
+.left-side-div{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding-left: 20px;
+    margin-left: 4px;
+    border-left: 6px solid #C5E4F6;
+    margin-bottom: 20px;
+}
+.right-side-div{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-left: 6px solid #C5E4F6;
+    margin-bottom: 20px;
+}
+#heading-six-design{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+/* experience section desing end */
+
+/* footer design start */
+.footer-section{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 35px;
+}
+/* footer design end */
